@@ -1,4 +1,4 @@
-package comments.structure_javadoc_of_interfaces_classes.problem;
+package comments.chapter3_8_structure_javadoc_of_interfaces_classes.problem;
 
 import java.util.Queue;
 import java.util.Stack;

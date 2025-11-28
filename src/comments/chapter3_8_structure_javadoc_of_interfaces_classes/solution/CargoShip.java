@@ -1,14 +1,9 @@
-package comments.structure_javadoc_of_interfaces_classes.solution;
+package comments.chapter3_8_structure_javadoc_of_interfaces_classes.solution;
 
 import general.Supply;
 
 import java.util.Queue;
 import java.util.Stack;
-
-import java.util.Queue;
-import java.util.Stack;
-
-import general.Supply;
 
 /**
  * A cargo ship can load and unload supplies according to its capacity.
