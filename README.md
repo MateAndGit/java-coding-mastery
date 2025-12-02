@@ -38,4 +38,5 @@
 
 ### 4장 Name Things Right
 #### 4.1 자바 명명 규칙 사용하기
+#### 4.2 프레임워크에는 Getter/Setter 규칙 적용
 
